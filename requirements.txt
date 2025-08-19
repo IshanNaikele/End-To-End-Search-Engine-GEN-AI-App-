@@ -1,0 +1,14 @@
+ipykernel
+wikipedia
+langchain_community
+arxiv
+langchain_groq
+python-dotenv
+fitz
+frontend
+pymupdf
+langchain_huggingface
+sentence_transformers
+faiss-cpu
+streamlit
+duckduckgo-search
